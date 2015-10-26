@@ -12,5 +12,14 @@
     position: relative;
 }
 
+.footer {
+  background-color: #008AB8;
+  color: black;
+  font-size: 11px;
+  font-weight: bolder;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
 #important {
 }
