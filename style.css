@@ -32,6 +32,7 @@
   padding: 14px 10px;
 }
 
+<<<<<<< HEAD
 #footer {
 width:762px;
 padding-top:1px;
@@ -51,7 +52,17 @@ font-size:10px;
 #footer a:link,#footer a:visited {
 color:#3f81d6;
 z-index:80;
+=======
+footer {
+  background-color: #008AB8;
+  color: black;
+  font-size: 11px;
+  font-weight: bolder;
+  padding: 14px 10px;
+  text-transform: uppercase;
+>>>>>>> parent of 167658f... Footer
 }
-#footer li a:link,#footer li a:visited {
-line-height:14px
+
+#inc {
+  float:left;
 }
