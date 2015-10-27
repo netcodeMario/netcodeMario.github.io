@@ -32,15 +32,25 @@
   padding: 14px 10px;
 }
 
-footer {
-  background-color: #008AB8;
-  color: black;
-  font-size: 11px;
-  font-weight: bolder;
-  padding: 14px 10px;
-  text-transform: uppercase;
+#footer {
+width:762px;
+padding-top:1px;
+margin:0 auto;
+position:absolute;
+bottom:10px;
+left:50%;
+margin-left:-381px;
+z-index:80;
+text-align:center;
 }
-
-#inc {
-  float:left;
+#footer,#footer p {
+line-height:14px;
+font-size:10px;
+}
+#footer a:link,#footer a:visited {
+color:#3f81d6;
+z-index:80;
+}
+#footer li a:link,#footer li a:visited {
+line-height:14px
 }
