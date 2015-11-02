@@ -44,16 +44,16 @@
   text-align:center;
 }
 
-#footer,#footer p {
+#footer, #footer p {
   line-height:14px;
   font-size:10px;
 }
 
-#footer a:link,#footer a:visited {
+#footer a:link, #footer a:visited {
   color:#3f81d6;
   z-index:80;
 }
 
-#footer li a:link,#footer li a:visited {
+#footer p a:link, #footer p a:visited {
   line-height:14px
 }
