@@ -1,10 +1,10 @@
 .nav {
   background-color: #C0C0C0;
   color: black;
-  font-size: 11px;
+  font-size: 14px;
   font-weight: bolder;
   padding: 14px 10px;
-  text-transform: uppercase;
+  font-variant: small-caps;
 }
 
 .nav li {
