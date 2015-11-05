@@ -12,5 +12,49 @@
     position: relative;
 }
 
-#important {
+.header {
+  background-image: url("http://www.designbolts.com/wp-content/uploads/2013/02/Rough-Grey-Tilable-Pattern-For-Website-Background.jpg");
+}
+
+.header h1 {
+  text-align: center;
+  color: black;
+  font-size: 35px;
+  font-weight: bolder;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+#iBio {
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  font-style: italic;
+  padding: 14px 10px;
+}
+
+#footer {
+  width:762px;
+  padding-top:1px;
+  margin:0 auto;
+  position:absolute;
+  bottom:10px;
+  left:50%;
+  margin-left:-381px;
+  z-index:80;
+  text-align:center;
+}
+
+#footer, #footer p {
+  line-height:14px;
+  font-size:10px;
+}
+
+#footer a:link, #footer a:visited {
+  color:#3f81d6;
+  z-index:80;
+}
+
+#footer p a:link, #footer p a:visited {
+  line-height:14px
 }
