@@ -8,6 +8,18 @@
 }
 
 .nav li {
+  font-variant: small-caps;
+}
+
+.pull-right li {
+  word-spacing: 6px;
+}
+
+#space {
+  word-spacing: 2px;
+}
+
+.nav li {
     display: inline;
     position: relative;
 }
