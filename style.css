@@ -3,20 +3,13 @@
   color: black;
   font-size: 11px;
   font-weight: bolder;
+  font-variant: small-caps;
   padding: 14px 10px;
   text-transform: uppercase;
 }
 
-.nav li {
-  font-variant: small-caps;
-}
-
-.pull-right li {
-  word-spacing: 6px;
-}
-
-#space {
-  word-spacing: 2px;
+.pull-right {
+  word-spacing: 4px;
 }
 
 .nav li {
