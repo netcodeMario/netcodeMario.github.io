@@ -26,6 +26,8 @@
 }
 
 #iBio {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
   text-align: center;
   color: black;
   font-size: 15px;
