@@ -71,8 +71,13 @@
 .rBody ul {
   display: inline-block;
   position: relative;
+  float: left;
 }
 
 .rBody ul li{
   position: relative;
+}
+
+.math {
+  list-style-type: none;
 }
